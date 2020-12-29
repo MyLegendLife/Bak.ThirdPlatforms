@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bak.ThirdPlatforms.Domain</name>
+    </assembly>
+    <members>
+        <member name="T:Bak.ThirdPlatforms.Domain.Auths.Authorizer">
+            <summary>
+            授权方信息
+            </summary>
+        </member>
+        <member name="T:Bak.ThirdPlatforms.Domain.Auths.Factor">
+            <summary>
+            授权基础要素
+            </summary>
+        </member>
+        <member name="T:Bak.ThirdPlatforms.Domain.Base.ThirdTicket">
+            <summary>
+            验证票据
+            </summary>
+        </member>
+        <member name="T:Bak.ThirdPlatforms.Domain.MiniPrograms.MiniProgramRecord">
+            <summary>
+            小程序创建记录
+            </summary>
+        </member>
+        <member name="T:Bak.ThirdPlatforms.Domain.Settings.AppSettings">
+            <summary>
+            appsettings.json配置文件数据读取类
+            </summary>
+        </member>
+        <member name="F:Bak.ThirdPlatforms.Domain.Settings.AppSettings._config">
+            <summary>
+            配置文件的根节点
+            </summary>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.Domain.Settings.AppSettings.#cctor">
+            <summary>
+            静态构造函数，加载appsettings.json，并构建IConfigurationRoot
+            </summary>
+        </member>
+        <member name="P:Bak.ThirdPlatforms.Domain.Settings.AppSettings.ApiVersion">
+            <summary>
+            Api版本
+            </summary>
+        </member>
+        <member name="P:Bak.ThirdPlatforms.Domain.Settings.AppSettings.ConnectionString">
+            <summary>
+            ConnectionString
+            </summary>
+        </member>
+        <member name="T:Bak.ThirdPlatforms.Domain.Settings.AppSettings.Jwt">
+            <summary>
+            JWT
+            </summary>
+        </member>
+        <member name="T:Bak.ThirdPlatforms.Domain.Settings.AppSettings.Weixin">
+            <summary>
+            微信开放平台
+            </summary>
+        </member>
+        <member name="T:Bak.ThirdPlatforms.Domain.Settings.AppSettings.Bak">
+            <summary>
+            Bak
+            </summary>
+        </member>
+        <member name="T:Bak.ThirdPlatforms.Domain.Settings.AppSettings.Caching">
+            <summary>
+            Caching
+            </summary>
+        </member>
+        <member name="P:Bak.ThirdPlatforms.Domain.Settings.AppSettings.Caching.RedisConnectionString">
+            <summary>
+            RedisConnectionString
+            </summary>
+        </member>
+        <member name="P:Bak.ThirdPlatforms.Domain.Settings.AppSettings.Caching.IsOpen">
+            <summary>
+            是否开启
+            </summary>
+        </member>
+        <member name="F:Bak.ThirdPlatforms.Domain.Settings.UrlsConfig.GetAccessToken">
+            <summary>
+            获取令牌请求地址
+            </summary>
+        </member>
+        <member name="F:Bak.ThirdPlatforms.Domain.Settings.UrlsConfig.CreatePreAuthCode">
+            <summary>
+            预授权码
+            </summary>
+        </member>
+        <member name="F:Bak.ThirdPlatforms.Domain.Settings.UrlsConfig.ComponentLoginPage">
+            <summary>
+            授权注册页面
+            </summary>
+        </member>
+        <member name="F:Bak.ThirdPlatforms.Domain.Settings.UrlsConfig.QueryAuth">
+            <summary>
+            使用授权码获取授权信息
+            </summary>
+        </member>
+        <member name="F:Bak.ThirdPlatforms.Domain.Settings.UrlsConfig.AuthorizerToken">
+            <summary>
+            获取/刷新接口调用令牌
+            </summary>
+        </member>
+        <member name="F:Bak.ThirdPlatforms.Domain.Settings.UrlsConfig.GetAuthorizerInfo">
+            <summary>
+            使用授权者Id获取授权者信息
+            </summary>
+        </member>
+        <member name="T:Bak.ThirdPlatforms.Domain.Settings.UrlsConfig.MiniProgram">
+            <summary>
+            小程序
+            </summary>
+        </member>
+        <member name="F:Bak.ThirdPlatforms.Domain.Settings.UrlsConfig.MiniProgram.FastRegisterCreate">
+            <summary>
+            创建小程序接口
+            </summary>
+        </member>
+        <member name="F:Bak.ThirdPlatforms.Domain.Settings.UrlsConfig.MiniProgram.FastRegisterSearch">
+            <summary>
+            查询创建任务状态
+            </summary>
+        </member>
+        <member name="F:Bak.ThirdPlatforms.Domain.Settings.UrlsConfig.MiniProgram.ApplyLive">
+            <summary>
+            申请开通直播
+            </summary>
+        </member>
+    </members>
+</doc>

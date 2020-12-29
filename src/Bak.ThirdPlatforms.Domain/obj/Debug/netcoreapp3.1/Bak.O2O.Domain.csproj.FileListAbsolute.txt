@@ -1,0 +1,13 @@
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.deps.json
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.Shared.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.Shared.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain\obj\Debug\netcoreapp3.1\Bak.O2O.Domain.csprojAssemblyReference.cache
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain\obj\Debug\netcoreapp3.1\Bak.O2O.Domain.AssemblyInfoInputs.cache
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain\obj\Debug\netcoreapp3.1\Bak.O2O.Domain.AssemblyInfo.cs
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain\obj\Debug\netcoreapp3.1\Bak.O2O.Domain.csproj.CopyComplete
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain\obj\Debug\netcoreapp3.1\Bak.O2O.Domain.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain\obj\Debug\netcoreapp3.1\Bak.O2O.Domain.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.xml
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain\obj\Debug\netcoreapp3.1\Bak.O2O.Domain.csproj.CoreCompileInputs.cache

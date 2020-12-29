@@ -1,0 +1,14 @@
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Common\bin\Release\netcoreapp3.1\Bak.ThirdPlatforms.Common.deps.json
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Common\bin\Release\netcoreapp3.1\Bak.ThirdPlatforms.Common.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Common\bin\Release\netcoreapp3.1\Bak.ThirdPlatforms.Common.pdb
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Common\bin\Release\netcoreapp3.1\Bak.ThirdPlatforms.Domain.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Common\bin\Release\netcoreapp3.1\Bak.ThirdPlatforms.Domain.Shared.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Common\bin\Release\netcoreapp3.1\Bak.ThirdPlatforms.Domain.pdb
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Common\bin\Release\netcoreapp3.1\Bak.ThirdPlatforms.Domain.Shared.pdb
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Common\obj\Release\netcoreapp3.1\Bak.ThirdPlatforms.Common.csprojAssemblyReference.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Common\obj\Release\netcoreapp3.1\Bak.ThirdPlatforms.Common.AssemblyInfoInputs.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Common\obj\Release\netcoreapp3.1\Bak.ThirdPlatforms.Common.AssemblyInfo.cs
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Common\obj\Release\netcoreapp3.1\Bak.ThirdPlatforms.Common.csproj.CoreCompileInputs.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Common\obj\Release\netcoreapp3.1\Bak.ThirdPlatforms.Common.csproj.CopyComplete
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Common\obj\Release\netcoreapp3.1\Bak.ThirdPlatforms.Common.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Common\obj\Release\netcoreapp3.1\Bak.ThirdPlatforms.Common.pdb

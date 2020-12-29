@@ -1,0 +1,526 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.HttpApi\\Bak.OPlatform.HttpApi.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.Caching\\Bak.OPlatform.Application.Caching.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.Caching\\Bak.OPlatform.Application.Caching.csproj",
+        "projectName": "Bak.OPlatform.Application.Caching",
+        "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.Caching\\Bak.OPlatform.Application.Caching.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.Caching\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.Contracts\\Bak.OPlatform.Application.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.Contracts\\Bak.OPlatform.Application.Contracts.csproj"
+              },
+              "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.EventBus\\Bak.OPlatform.Application.EventBus.csproj": {
+                "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.EventBus\\Bak.OPlatform.Application.EventBus.csproj"
+              },
+              "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Common\\Bak.OPlatform.Common.csproj": {
+                "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Common\\Bak.OPlatform.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Caching.CSRedis": {
+              "target": "Package",
+              "version": "[3.6.5, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Volo.Abp.Caching": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.Contracts\\Bak.OPlatform.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.Contracts\\Bak.OPlatform.Application.Contracts.csproj",
+        "projectName": "Bak.OPlatform.Application.Contracts",
+        "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.Contracts\\Bak.OPlatform.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Common\\Bak.OPlatform.Common.csproj": {
+                "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Common\\Bak.OPlatform.Common.csproj"
+              },
+              "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Domain\\Bak.OPlatform.Domain.csproj": {
+                "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Domain\\Bak.OPlatform.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Volo.Abp.Ddd.Application.Contracts": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.EventBus\\Bak.OPlatform.Application.EventBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.EventBus\\Bak.OPlatform.Application.EventBus.csproj",
+        "projectName": "Bak.OPlatform.Application.EventBus",
+        "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.EventBus\\Bak.OPlatform.Application.EventBus.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.EventBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application\\Bak.OPlatform.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application\\Bak.OPlatform.Application.csproj",
+        "projectName": "Bak.OPlatform.Application",
+        "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application\\Bak.OPlatform.Application.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.Caching\\Bak.OPlatform.Application.Caching.csproj": {
+                "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application.Caching\\Bak.OPlatform.Application.Caching.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Volo.Abp.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Volo.Abp.Identity.Application": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Common\\Bak.OPlatform.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Common\\Bak.OPlatform.Common.csproj",
+        "projectName": "Bak.OPlatform.Common",
+        "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Common\\Bak.OPlatform.Common.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Domain\\Bak.OPlatform.Domain.csproj": {
+                "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Domain\\Bak.OPlatform.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Domain.Shared\\Bak.OPlatform.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Domain.Shared\\Bak.OPlatform.Domain.Shared.csproj",
+        "projectName": "Bak.OPlatform.Domain.Shared",
+        "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Domain.Shared\\Bak.OPlatform.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Domain.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.Identity.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Domain\\Bak.OPlatform.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Domain\\Bak.OPlatform.Domain.csproj",
+        "projectName": "Bak.OPlatform.Domain",
+        "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Domain\\Bak.OPlatform.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Domain.Shared\\Bak.OPlatform.Domain.Shared.csproj": {
+                "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Domain.Shared\\Bak.OPlatform.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Volo.Abp.Identity.Domain": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.HttpApi\\Bak.OPlatform.HttpApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.HttpApi\\Bak.OPlatform.HttpApi.csproj",
+        "projectName": "Bak.OPlatform.HttpApi",
+        "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.HttpApi\\Bak.OPlatform.HttpApi.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.HttpApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application\\Bak.OPlatform.Application.csproj": {
+                "projectPath": "D:\\Projects\\Bak.OPlatform\\src\\Bak.OPlatform.Application\\Bak.OPlatform.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Volo.Abp.Identity.HttpApi": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Bak.ThirdPlatforms.Domain</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>..\Bak.ThirdPlatforms.HttpApi.Host\Resources\Bak.ThirdPlatforms.Domain.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Base\Merchan.cs" />
+    <Compile Remove="Base\MerchanAuthorization.cs" />
+    <Compile Remove="Base\Repositories\IMerchanRepository.cs" />
+    <Compile Remove="Base\Repositories\IThirdAccessTokenRepository.cs" />
+    <Compile Remove="Base\Repositories\IThirdTicketRepository.cs" />
+    <Compile Remove="Base\ThirdAccessToken.cs" />
+    <Compile Remove="MiniPrograms\IOrderRepository.cs" />
+    <Compile Remove="MiniPrograms\Order.cs" />
+    <Compile Remove="MiniPrograms\Repositories\IMiniProgramCreateInfoRespository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.Identity.Domain" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bak.ThirdPlatforms.Domain.Shared\Bak.ThirdPlatforms.Domain.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Base\Repositories\" />
+  </ItemGroup>
+
+</Project>

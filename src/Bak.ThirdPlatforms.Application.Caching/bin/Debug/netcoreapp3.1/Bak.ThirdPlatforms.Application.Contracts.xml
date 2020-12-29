@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bak.ThirdPlatforms.Application.Contracts</name>
+    </assembly>
+    <members>
+        <member name="T:Bak.ThirdPlatforms.Application.Contracts.Auths.AuthorizerCreateDto">
+            <summary>
+            授权方信息
+            </summary>
+        </member>
+        <member name="T:Bak.ThirdPlatforms.Application.Contracts.Auths.AuthorizerDto">
+            <summary>
+            授权方信息
+            </summary>
+        </member>
+        <member name="T:Bak.ThirdPlatforms.Application.Contracts.Auths.AuthorizerUpdateDto">
+            <summary>
+            授权方信息
+            </summary>
+        </member>
+        <member name="T:Bak.ThirdPlatforms.Application.Contracts.Auths.FactorCreateDto">
+            <summary>
+            授权基础要素
+            </summary>
+        </member>
+        <member name="T:Bak.ThirdPlatforms.Application.Contracts.Auths.FactorDto">
+            <summary>
+            授权基础要素
+            </summary>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.Application.Contracts.Auths.IAuthorizerService.CreateAuthPageAsync(System.String)">
+            <summary>
+            创建授权页面地址
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.Application.Contracts.Auths.IAuthorizerService.CreateAsync(System.String,System.Int32)">
+            <summary>
+            创建授权者
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.Application.Contracts.Auths.IAuthorizerService.UpdateAsync(System.String)">
+            <summary>
+            更新授权者
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.Application.Contracts.Auths.IAuthorizerService.UpdateAccessTokenAsync(System.String)">
+            <summary>
+            更新授权者
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.Application.Contracts.Auths.IAuthorizerService.GetListAsync(Volo.Abp.Application.Dtos.PagedAndSortedResultRequestDto)">
+            <summary>
+            查询授权者
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.Application.Contracts.Auths.IFactorService.GetAccessTokenAsync">
+            <summary>
+            获取令牌
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.Application.Contracts.Auths.IFactorService.GetPreAuthCode">
+            <summary>
+            获取预授权码
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.IMiniProgramService.FastRegisterAsync(Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.MiniProgramRegisterInput)">
+            <summary>
+            创建小程序接口
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.IMiniProgramService.RegisterSearchAsync(Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.MiniProgramSearchInput)">
+            <summary>
+            查询创建任务状态
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.IMiniProgramService.ApplyLiveAsync(System.String)">
+            <summary>
+            申请开通直播
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.IMiniProgramService.RecordAsync(Volo.Abp.Application.Dtos.PagedAndSortedResultRequestDto)">
+            <summary>
+            查询小程序创建记录
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="P:Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.MiniProgramRegisterInput.name">
+            <summary>
+            企业名（需与工商部门登记信息一致）
+            </summary>
+        </member>
+        <member name="P:Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.MiniProgramRegisterInput.code">
+            <summary>
+            企业代码
+            </summary>
+        </member>
+        <member name="P:Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.MiniProgramRegisterInput.code_type">
+            <summary>
+            企业代码类型
+            </summary>
+        </member>
+        <member name="P:Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.MiniProgramRegisterInput.legal_persona_wechat">
+            <summary>
+            法人微信号
+            </summary>
+        </member>
+        <member name="P:Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.MiniProgramRegisterInput.legal_persona_name">
+            <summary>
+            法人姓名（绑定银行卡）
+            </summary>
+        </member>
+        <member name="P:Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.MiniProgramRegisterInput.component_phone">
+            <summary>
+            第三方联系电话
+            </summary>
+        </member>
+        <member name="P:Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.MiniProgramSearchInput.name">
+            <summary>
+            企业名（需与工商部门登记信息一致）
+            </summary>
+        </member>
+        <member name="P:Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.MiniProgramSearchInput.legal_persona_wechat">
+            <summary>
+            法人微信号
+            </summary>
+        </member>
+        <member name="P:Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.MiniProgramSearchInput.legal_persona_name">
+            <summary>
+            法人姓名（绑定银行卡）
+            </summary>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.Application.Contracts.Orders.IOrderAppService.CreateAsync(Bak.ThirdPlatforms.Application.Contracts.Orders.OrderCreateDto)">
+            <summary>
+            新增订单
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.Application.Contracts.Orders.IOrderAppService.GetListAsync(Volo.Abp.Application.Dtos.PagedAndSortedResultRequestDto)">
+            <summary>
+            分页查询订单
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="P:Bak.ThirdPlatforms.Application.Contracts.Orders.OrderCreateDto.CreationTime">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+    </members>
+</doc>

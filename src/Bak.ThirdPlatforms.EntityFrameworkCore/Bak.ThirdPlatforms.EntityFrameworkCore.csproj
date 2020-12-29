@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Bak.ThirdPlatforms.EntityFrameworkCore</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Repositories\Base\MerchanRepository.cs" />
+    <Compile Remove="Repositories\Base\ThirdAccessTokenRepository.cs" />
+    <Compile Remove="Repositories\Base\TicketInfoRepository.cs" />
+    <Compile Remove="Repositories\Orders\OrderRepository.cs" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\Bak.ThirdPlatforms.Domain\Bak.ThirdPlatforms.Domain.csproj" />
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore.SqlServer" Version="3.1.2" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="Repositories\Base\" />
+    <Folder Include="Repositories\Orders\" />
+  </ItemGroup>
+
+</Project>

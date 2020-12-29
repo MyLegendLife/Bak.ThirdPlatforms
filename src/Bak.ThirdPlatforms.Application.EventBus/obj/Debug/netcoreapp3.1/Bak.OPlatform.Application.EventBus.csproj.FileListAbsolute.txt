@@ -1,0 +1,8 @@
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Application.EventBus\bin\Debug\netcoreapp3.1\Bak.OPlatform.Application.EventBus.deps.json
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Application.EventBus\bin\Debug\netcoreapp3.1\Bak.OPlatform.Application.EventBus.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Application.EventBus\bin\Debug\netcoreapp3.1\Bak.OPlatform.Application.EventBus.pdb
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.OPlatform.Application.EventBus.AssemblyInfoInputs.cache
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.OPlatform.Application.EventBus.AssemblyInfo.cs
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.OPlatform.Application.EventBus.csproj.CoreCompileInputs.cache
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.OPlatform.Application.EventBus.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.OPlatform.Application.EventBus.pdb

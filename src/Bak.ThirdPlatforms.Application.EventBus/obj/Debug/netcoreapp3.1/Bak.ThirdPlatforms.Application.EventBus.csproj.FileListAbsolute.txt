@@ -1,0 +1,9 @@
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Application.EventBus\bin\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Application.EventBus.deps.json
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Application.EventBus\bin\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Application.EventBus.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Application.EventBus\bin\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Application.EventBus.pdb
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Application.EventBus.AssemblyInfoInputs.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Application.EventBus.AssemblyInfo.cs
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Application.EventBus.csproj.CoreCompileInputs.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Application.EventBus.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Application.EventBus.pdb
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Application.EventBus.csprojAssemblyReference.cache

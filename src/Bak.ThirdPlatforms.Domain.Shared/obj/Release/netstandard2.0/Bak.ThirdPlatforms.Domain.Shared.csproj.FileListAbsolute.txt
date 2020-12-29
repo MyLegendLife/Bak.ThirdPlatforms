@@ -1,0 +1,9 @@
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Domain.Shared\bin\Release\netstandard2.0\Bak.ThirdPlatforms.Domain.Shared.deps.json
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Domain.Shared\bin\Release\netstandard2.0\Bak.ThirdPlatforms.Domain.Shared.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Domain.Shared\bin\Release\netstandard2.0\Bak.ThirdPlatforms.Domain.Shared.pdb
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Domain.Shared\obj\Release\netstandard2.0\Bak.ThirdPlatforms.Domain.Shared.csprojAssemblyReference.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Domain.Shared\obj\Release\netstandard2.0\Bak.ThirdPlatforms.Domain.Shared.AssemblyInfoInputs.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Domain.Shared\obj\Release\netstandard2.0\Bak.ThirdPlatforms.Domain.Shared.AssemblyInfo.cs
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Domain.Shared\obj\Release\netstandard2.0\Bak.ThirdPlatforms.Domain.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Domain.Shared\obj\Release\netstandard2.0\Bak.ThirdPlatforms.Domain.Shared.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Domain.Shared\obj\Release\netstandard2.0\Bak.ThirdPlatforms.Domain.Shared.pdb

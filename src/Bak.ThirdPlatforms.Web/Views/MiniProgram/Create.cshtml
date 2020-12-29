@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "快速创建 - 小程序";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<fieldset class="layui-elem-field layui-field-title" style="margin-top: 50px;">
+    <legend>快速创建小程序</legend>
+</fieldset>
+<form class="layui-form">
+    <div class="layui-form-item">
+        <label class="layui-form-label">企业名</label>
+        <div class="layui-input-block">
+            <input type="text" name="name" lay-verify="name" autocomplete="off" placeholder="请输入企业名（需与工商部门登记信息一致）" class="layui-input">
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <label class="layui-form-label">企业代码</label>
+        <div class="layui-input-block">
+            <input type="text" name="code" lay-verify="code" autocomplete="off" placeholder="请输入企业代码" class="layui-input">
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <label class="layui-form-label">企业代码类型</label>
+        <div class="layui-input-block">
+            @Html.DropDownList("code_type", ViewData["CodeType"] as SelectList)
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <label class="layui-form-label">法人微信号</label>
+        <div class="layui-input-block">
+            <input type="text" name="legal_persona_wechat" lay-verify="legal_persona_wechat" autocomplete="off" placeholder="请输入法人微信号" class="layui-input">
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <label class="layui-form-label">法人姓名</label>
+        <div class="layui-input-block">
+            <input type="text" name="legal_persona_name" lay-verify="legal_persona_name" autocomplete="off" placeholder="请输入法人姓名（绑定银行卡）" class="layui-input">
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <label class="layui-form-label">第三方联系电话</label>
+        <div class="layui-input-block">
+            <input type="text" name="component_phone" lay-verify="component_phone" autocomplete="off" placeholder="请输入第三方联系电话" class="layui-input">
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <div class="layui-input-block">
+            <button type="button" class="layui-btn" lay-submit="" lay-filter="btn">确定</button>
+        </div>
+    </div>
+</form>
+
+@section Scripts
+{
+    <script>
+        //Demo
+        layui.use('form',
+            function () {
+                var form = layui.form;
+
+                //监听提交
+                form.on('submit(btn)',
+                    function (data) {
+                        $.ajax({
+                            url: 'record',
+                            type: 'post',
+                            data: JSON.stringify(data.field),
+                            dataType: 'json',
+                            contentType: 'application/json;charset=UTF-8',
+                            success: function (res) {
+                                if (res.code == '0') {
+                                    layer.msg(res.message, { icon: 1, time: 1500 });
+                                }
+                                else {
+                                    layer.msg(res.message, { icon: 2, time: false, btn: ['关闭'] });
+                                }
+                            },
+                            error:
+                                function () {
+                                    layer.msg('服务器异常', { icon: 2, time: 1500 });
+                                }
+                        });
+
+                        return false;
+                    });
+            });
+    </script>
+}
+

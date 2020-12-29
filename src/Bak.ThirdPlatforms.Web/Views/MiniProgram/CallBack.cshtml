@@ -1,0 +1,15 @@
+﻿@model ServiceResult
+@using Bak.ThirdPlatforms.Common.Base
+@{
+    ViewData["Title"] = "授权结果";
+}
+@{
+    if (@Model.Success)
+    {
+        <h1>授权成功</h1>
+    }
+    else
+    {
+        <h1>授权失败，请与管理员联系。</h1>
+    }
+}

@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>..\Bak.ThirdPlatforms.HttpApi.Host\Resources\Bak.ThirdPlatforms.Application.Contracts.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Auths\IAuthService.cs" />
+    <Compile Remove="Base\MerchanAuthorizationDto.cs" />
+    <Compile Remove="Base\MerchanCreateUpdateDto.cs" />
+    <Compile Remove="MiniPrograms\MiniProgramRecordCreateDto.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.Ddd.Application.Contracts" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bak.ThirdPlatforms.Common\Bak.ThirdPlatforms.Common.csproj" />
+    <ProjectReference Include="..\Bak.ThirdPlatforms.Domain\Bak.ThirdPlatforms.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Base\" />
+  </ItemGroup>
+
+</Project>

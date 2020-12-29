@@ -1,0 +1,26 @@
+
+ {  "system": "Bak.O2O",  "datetime": "2020-09-25 14:47:44,340",  "description": "/order/new|Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> OrderCreateDto
+System.Object -> Bak.O2O.Application.Contracts.Orders.OrderCreateDto",   "level": "ERROR",  "info": "AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> OrderCreateDto
+System.Object -> Bak.O2O.Application.Contracts.Orders.OrderCreateDto
+   at lambda_method(Closure , Object , OrderCreateDto , ResolutionContext )
+   at Volo.Abp.AutoMapper.AutoMapperAutoObjectMappingProvider.Map[TSource,TDestination](Object source)
+   at Volo.Abp.ObjectMapping.DefaultObjectMapper.AutoMap[TSource,TDestination](Object source)
+   at Volo.Abp.ObjectMapping.DefaultObjectMapper.Map[TSource,TDestination](TSource source)
+   at Bak.O2O.HttpApi.Controllers.OrderController.OrderNew(OrderModel model) in D:\Projects\ABP\Bak.O2O\src\Bak.O2O.HttpApi\Controllers\OrderController.cs:line 67
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+" }

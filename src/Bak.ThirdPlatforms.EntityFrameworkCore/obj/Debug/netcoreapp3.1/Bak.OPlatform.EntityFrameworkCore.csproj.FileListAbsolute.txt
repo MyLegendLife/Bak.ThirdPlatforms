@@ -1,0 +1,15 @@
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Bak.OPlatform.EntityFrameworkCore.deps.json
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Bak.OPlatform.EntityFrameworkCore.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Bak.OPlatform.EntityFrameworkCore.pdb
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Bak.OPlatform.Domain.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Bak.OPlatform.Domain.Shared.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Bak.OPlatform.Domain.pdb
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Bak.OPlatform.Domain.xml
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Bak.OPlatform.Domain.Shared.pdb
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Bak.OPlatform.EntityFrameworkCore.csprojAssemblyReference.cache
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Bak.OPlatform.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Bak.OPlatform.EntityFrameworkCore.AssemblyInfo.cs
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Bak.OPlatform.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Bak.OPlatform.EntityFrameworkCore.csproj.CopyComplete
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Bak.OPlatform.EntityFrameworkCore.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Bak.OPlatform.EntityFrameworkCore.pdb

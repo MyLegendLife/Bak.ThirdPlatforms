@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Helper\BakHelper.cs" />
+    <Compile Remove="Helper\SqlHelper.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="log4net" Version="2.0.11" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="1.0.19269.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bak.ThirdPlatforms.Domain\Bak.ThirdPlatforms.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

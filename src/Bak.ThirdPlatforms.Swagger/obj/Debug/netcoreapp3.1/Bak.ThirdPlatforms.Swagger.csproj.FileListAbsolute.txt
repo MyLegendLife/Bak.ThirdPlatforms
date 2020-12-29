@@ -1,0 +1,15 @@
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Swagger\bin\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Swagger.deps.json
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Swagger\bin\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Swagger.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Swagger\bin\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Swagger.pdb
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Swagger\bin\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Domain.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Swagger\bin\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Domain.Shared.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Swagger\bin\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Domain.pdb
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Swagger\bin\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Domain.xml
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Swagger\bin\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Domain.Shared.pdb
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Swagger\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Swagger.csprojAssemblyReference.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Swagger\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Swagger.AssemblyInfoInputs.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Swagger\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Swagger.AssemblyInfo.cs
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Swagger\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Swagger.csproj.CoreCompileInputs.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Swagger\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Swagger.csproj.CopyComplete
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Swagger\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Swagger.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.Swagger\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.Swagger.pdb

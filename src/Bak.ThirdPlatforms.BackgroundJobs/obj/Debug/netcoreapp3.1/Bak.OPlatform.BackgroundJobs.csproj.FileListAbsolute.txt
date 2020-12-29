@@ -1,0 +1,8 @@
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.BackgroundJobs\bin\Debug\netcoreapp3.1\Bak.OPlatform.BackgroundJobs.deps.json
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.BackgroundJobs\bin\Debug\netcoreapp3.1\Bak.OPlatform.BackgroundJobs.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.BackgroundJobs\bin\Debug\netcoreapp3.1\Bak.OPlatform.BackgroundJobs.pdb
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.OPlatform.BackgroundJobs.AssemblyInfoInputs.cache
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.OPlatform.BackgroundJobs.AssemblyInfo.cs
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.OPlatform.BackgroundJobs.csproj.CoreCompileInputs.cache
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.OPlatform.BackgroundJobs.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.OPlatform.BackgroundJobs.pdb

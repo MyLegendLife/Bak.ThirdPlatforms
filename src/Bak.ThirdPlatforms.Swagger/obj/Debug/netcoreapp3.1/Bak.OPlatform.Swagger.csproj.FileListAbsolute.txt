@@ -1,0 +1,15 @@
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Swagger\bin\Debug\netcoreapp3.1\Bak.OPlatform.Swagger.deps.json
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Swagger\bin\Debug\netcoreapp3.1\Bak.OPlatform.Swagger.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Swagger\bin\Debug\netcoreapp3.1\Bak.OPlatform.Swagger.pdb
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Swagger\bin\Debug\netcoreapp3.1\Bak.OPlatform.Domain.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Swagger\bin\Debug\netcoreapp3.1\Bak.OPlatform.Domain.Shared.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Swagger\bin\Debug\netcoreapp3.1\Bak.OPlatform.Domain.pdb
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Swagger\bin\Debug\netcoreapp3.1\Bak.OPlatform.Domain.xml
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Swagger\bin\Debug\netcoreapp3.1\Bak.OPlatform.Domain.Shared.pdb
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Swagger\obj\Debug\netcoreapp3.1\Bak.OPlatform.Swagger.csprojAssemblyReference.cache
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Swagger\obj\Debug\netcoreapp3.1\Bak.OPlatform.Swagger.AssemblyInfoInputs.cache
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Swagger\obj\Debug\netcoreapp3.1\Bak.OPlatform.Swagger.AssemblyInfo.cs
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Swagger\obj\Debug\netcoreapp3.1\Bak.OPlatform.Swagger.csproj.CoreCompileInputs.cache
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Swagger\obj\Debug\netcoreapp3.1\Bak.OPlatform.Swagger.csproj.CopyComplete
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Swagger\obj\Debug\netcoreapp3.1\Bak.OPlatform.Swagger.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Swagger\obj\Debug\netcoreapp3.1\Bak.OPlatform.Swagger.pdb

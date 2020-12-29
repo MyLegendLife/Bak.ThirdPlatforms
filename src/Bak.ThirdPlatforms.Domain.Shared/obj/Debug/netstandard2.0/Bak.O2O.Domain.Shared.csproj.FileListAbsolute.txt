@@ -1,0 +1,9 @@
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain.Shared\bin\Debug\netstandard2.0\Bak.O2O.Domain.Shared.deps.json
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain.Shared\bin\Debug\netstandard2.0\Bak.O2O.Domain.Shared.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain.Shared\bin\Debug\netstandard2.0\Bak.O2O.Domain.Shared.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain.Shared\obj\Debug\netstandard2.0\Bak.O2O.Domain.Shared.AssemblyInfoInputs.cache
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain.Shared\obj\Debug\netstandard2.0\Bak.O2O.Domain.Shared.AssemblyInfo.cs
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain.Shared\obj\Debug\netstandard2.0\Bak.O2O.Domain.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain.Shared\obj\Debug\netstandard2.0\Bak.O2O.Domain.Shared.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain.Shared\obj\Debug\netstandard2.0\Bak.O2O.Domain.Shared.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Domain.Shared\obj\Debug\netstandard2.0\Bak.O2O.Domain.Shared.csprojAssemblyReference.cache

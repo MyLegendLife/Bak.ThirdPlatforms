@@ -1,0 +1,9 @@
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Application.EventBus\bin\Debug\netcoreapp3.1\Bak.O2O.Application.EventBus.deps.json
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Application.EventBus\bin\Debug\netcoreapp3.1\Bak.O2O.Application.EventBus.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Application.EventBus\bin\Debug\netcoreapp3.1\Bak.O2O.Application.EventBus.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.O2O.Application.EventBus.AssemblyInfoInputs.cache
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.O2O.Application.EventBus.AssemblyInfo.cs
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.O2O.Application.EventBus.csproj.CoreCompileInputs.cache
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.O2O.Application.EventBus.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.O2O.Application.EventBus.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Application.EventBus\obj\Debug\netcoreapp3.1\Bak.O2O.Application.EventBus.csprojAssemblyReference.cache

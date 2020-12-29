@@ -1,0 +1,8 @@
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Domain.Shared\bin\Debug\netstandard2.0\Bak.OPlatform.Domain.Shared.deps.json
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Domain.Shared\bin\Debug\netstandard2.0\Bak.OPlatform.Domain.Shared.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Domain.Shared\bin\Debug\netstandard2.0\Bak.OPlatform.Domain.Shared.pdb
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Domain.Shared\obj\Debug\netstandard2.0\Bak.OPlatform.Domain.Shared.AssemblyInfoInputs.cache
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Domain.Shared\obj\Debug\netstandard2.0\Bak.OPlatform.Domain.Shared.AssemblyInfo.cs
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Domain.Shared\obj\Debug\netstandard2.0\Bak.OPlatform.Domain.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Domain.Shared\obj\Debug\netstandard2.0\Bak.OPlatform.Domain.Shared.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Domain.Shared\obj\Debug\netstandard2.0\Bak.OPlatform.Domain.Shared.pdb

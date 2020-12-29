@@ -1,0 +1,15 @@
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Common\bin\Debug\netcoreapp3.1\Bak.OPlatform.Common.deps.json
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Common\bin\Debug\netcoreapp3.1\Bak.OPlatform.Common.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Common\bin\Debug\netcoreapp3.1\Bak.OPlatform.Common.pdb
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Common\bin\Debug\netcoreapp3.1\Bak.OPlatform.Domain.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Common\bin\Debug\netcoreapp3.1\Bak.OPlatform.Domain.Shared.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Common\bin\Debug\netcoreapp3.1\Bak.OPlatform.Domain.pdb
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Common\bin\Debug\netcoreapp3.1\Bak.OPlatform.Domain.xml
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Common\bin\Debug\netcoreapp3.1\Bak.OPlatform.Domain.Shared.pdb
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Common\obj\Debug\netcoreapp3.1\Bak.OPlatform.Common.csprojAssemblyReference.cache
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Common\obj\Debug\netcoreapp3.1\Bak.OPlatform.Common.AssemblyInfoInputs.cache
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Common\obj\Debug\netcoreapp3.1\Bak.OPlatform.Common.AssemblyInfo.cs
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Common\obj\Debug\netcoreapp3.1\Bak.OPlatform.Common.csproj.CoreCompileInputs.cache
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Common\obj\Debug\netcoreapp3.1\Bak.OPlatform.Common.csproj.CopyComplete
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Common\obj\Debug\netcoreapp3.1\Bak.OPlatform.Common.dll
+D:\Projects\Bak.OPlatform\src\Bak.OPlatform.Common\obj\Debug\netcoreapp3.1\Bak.OPlatform.Common.pdb

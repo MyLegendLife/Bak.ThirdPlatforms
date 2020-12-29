@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bak.ThirdPlatforms.HttpApi</name>
+    </assembly>
+    <members>
+        <member name="M:Bak.ThirdPlatforms.HttpApi.Controllers.MiniProgramController.FastRegisterCreateAsync(Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.MiniProgramRegisterInput)">
+            <summary>
+            快速创建小程序
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.HttpApi.Controllers.MiniProgramController.FastRegisterSearchAsync(Bak.ThirdPlatforms.Application.Contracts.MiniPrograms.MiniProgramSearchInput)">
+            <summary>
+            查询创建任务状态
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Bak.ThirdPlatforms.HttpApi.Controllers.MiniProgramController.ApplyLiveAsync(System.String)">
+            <summary>
+            申请开通直播
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

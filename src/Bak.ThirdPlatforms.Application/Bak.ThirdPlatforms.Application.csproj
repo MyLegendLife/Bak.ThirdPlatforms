@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Bak.ThirdPlatforms.Application</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Auths\AuthService.cs" />
+    <Compile Remove="MiniPrograms\OrderAppService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.8" />
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore" Version="3.1.2" />
+    <PackageReference Include="Volo.Abp.Identity.Application" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bak.ThirdPlatforms.Application.Contracts\Bak.ThirdPlatforms.Application.Contracts.csproj" />
+    <ProjectReference Include="..\Bak.ThirdPlatforms.Domain\Bak.ThirdPlatforms.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

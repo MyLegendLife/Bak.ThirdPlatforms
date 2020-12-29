@@ -1,0 +1,9 @@
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.BackgroundJobs\bin\Debug\netcoreapp3.1\Bak.O2O.BackgroundJobs.deps.json
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.BackgroundJobs\bin\Debug\netcoreapp3.1\Bak.O2O.BackgroundJobs.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.BackgroundJobs\bin\Debug\netcoreapp3.1\Bak.O2O.BackgroundJobs.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.O2O.BackgroundJobs.AssemblyInfoInputs.cache
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.O2O.BackgroundJobs.AssemblyInfo.cs
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.O2O.BackgroundJobs.csproj.CoreCompileInputs.cache
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.O2O.BackgroundJobs.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.O2O.BackgroundJobs.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.O2O.BackgroundJobs.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.EntityFrameworkCore\bin\Release\netcoreapp3.1\Bak.ThirdPlatforms.EntityFrameworkCore.deps.json
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.EntityFrameworkCore\bin\Release\netcoreapp3.1\Bak.ThirdPlatforms.EntityFrameworkCore.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.EntityFrameworkCore\bin\Release\netcoreapp3.1\Bak.ThirdPlatforms.EntityFrameworkCore.pdb
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.EntityFrameworkCore\bin\Release\netcoreapp3.1\Bak.ThirdPlatforms.Domain.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.EntityFrameworkCore\bin\Release\netcoreapp3.1\Bak.ThirdPlatforms.Domain.Shared.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.EntityFrameworkCore\bin\Release\netcoreapp3.1\Bak.ThirdPlatforms.Domain.pdb
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.EntityFrameworkCore\bin\Release\netcoreapp3.1\Bak.ThirdPlatforms.Domain.Shared.pdb
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.EntityFrameworkCore\obj\Release\netcoreapp3.1\Bak.ThirdPlatforms.EntityFrameworkCore.csprojAssemblyReference.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.EntityFrameworkCore\obj\Release\netcoreapp3.1\Bak.ThirdPlatforms.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.EntityFrameworkCore\obj\Release\netcoreapp3.1\Bak.ThirdPlatforms.EntityFrameworkCore.AssemblyInfo.cs
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.EntityFrameworkCore\obj\Release\netcoreapp3.1\Bak.ThirdPlatforms.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.EntityFrameworkCore\obj\Release\netcoreapp3.1\Bak.ThirdPlatforms.EntityFrameworkCore.csproj.CopyComplete
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.EntityFrameworkCore\obj\Release\netcoreapp3.1\Bak.ThirdPlatforms.EntityFrameworkCore.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.EntityFrameworkCore\obj\Release\netcoreapp3.1\Bak.ThirdPlatforms.EntityFrameworkCore.pdb

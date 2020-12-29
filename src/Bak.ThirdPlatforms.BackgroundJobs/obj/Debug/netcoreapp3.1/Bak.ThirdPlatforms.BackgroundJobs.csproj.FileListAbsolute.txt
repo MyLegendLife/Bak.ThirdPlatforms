@@ -1,0 +1,9 @@
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.BackgroundJobs\bin\Debug\netcoreapp3.1\Bak.ThirdPlatforms.BackgroundJobs.deps.json
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.BackgroundJobs\bin\Debug\netcoreapp3.1\Bak.ThirdPlatforms.BackgroundJobs.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.BackgroundJobs\bin\Debug\netcoreapp3.1\Bak.ThirdPlatforms.BackgroundJobs.pdb
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.BackgroundJobs.csprojAssemblyReference.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.BackgroundJobs.AssemblyInfoInputs.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.BackgroundJobs.AssemblyInfo.cs
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.BackgroundJobs.csproj.CoreCompileInputs.cache
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.BackgroundJobs.dll
+D:\Projects\Bak.ThirdPlatforms\src\Bak.ThirdPlatforms.BackgroundJobs\obj\Debug\netcoreapp3.1\Bak.ThirdPlatforms.BackgroundJobs.pdb

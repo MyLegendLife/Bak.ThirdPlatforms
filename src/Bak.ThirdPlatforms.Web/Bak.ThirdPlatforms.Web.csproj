@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>37260ae7-7532-4624-979c-6212ba769636</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bak.ThirdPlatforms.EntityFrameworkCore\Bak.ThirdPlatforms.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\Bak.ThirdPlatforms.HttpApi\Bak.ThirdPlatforms.HttpApi.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Pages\MiniProgram\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="Volo.Abp.Autofac" Version="3.1.2" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Swagger\bin\Debug\netcoreapp3.1\Bak.O2O.Swagger.deps.json
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Swagger\bin\Debug\netcoreapp3.1\Bak.O2O.Swagger.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Swagger\bin\Debug\netcoreapp3.1\Bak.O2O.Swagger.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Swagger\obj\Debug\netcoreapp3.1\Bak.O2O.Swagger.AssemblyInfoInputs.cache
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Swagger\obj\Debug\netcoreapp3.1\Bak.O2O.Swagger.AssemblyInfo.cs
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Swagger\obj\Debug\netcoreapp3.1\Bak.O2O.Swagger.csproj.CoreCompileInputs.cache
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Swagger\obj\Debug\netcoreapp3.1\Bak.O2O.Swagger.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Swagger\obj\Debug\netcoreapp3.1\Bak.O2O.Swagger.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Swagger\obj\Debug\netcoreapp3.1\Bak.O2O.Swagger.csprojAssemblyReference.cache
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Swagger\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Swagger\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.Shared.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Swagger\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Swagger\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.Shared.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Swagger\obj\Debug\netcoreapp3.1\Bak.O2O.Swagger.csproj.CopyComplete
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Swagger\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.xml

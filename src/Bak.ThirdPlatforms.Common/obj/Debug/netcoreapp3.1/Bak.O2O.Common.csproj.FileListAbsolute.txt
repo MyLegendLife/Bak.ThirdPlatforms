@@ -1,0 +1,15 @@
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Common\bin\Debug\netcoreapp3.1\Bak.O2O.Common.deps.json
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Common\bin\Debug\netcoreapp3.1\Bak.O2O.Common.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Common\bin\Debug\netcoreapp3.1\Bak.O2O.Common.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Common\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Common\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.Shared.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Common\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Common\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.xml
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Common\bin\Debug\netcoreapp3.1\Bak.O2O.Domain.Shared.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Common\obj\Debug\netcoreapp3.1\Bak.O2O.Common.csprojAssemblyReference.cache
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Common\obj\Debug\netcoreapp3.1\Bak.O2O.Common.AssemblyInfoInputs.cache
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Common\obj\Debug\netcoreapp3.1\Bak.O2O.Common.AssemblyInfo.cs
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Common\obj\Debug\netcoreapp3.1\Bak.O2O.Common.csproj.CopyComplete
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Common\obj\Debug\netcoreapp3.1\Bak.O2O.Common.dll
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Common\obj\Debug\netcoreapp3.1\Bak.O2O.Common.pdb
+D:\Projects\ABP\Bak.O2O\src\Bak.O2O.Common\obj\Debug\netcoreapp3.1\Bak.O2O.Common.csproj.CoreCompileInputs.cache
