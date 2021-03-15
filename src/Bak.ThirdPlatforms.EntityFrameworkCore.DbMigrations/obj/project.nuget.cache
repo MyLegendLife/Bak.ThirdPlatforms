@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4oM+FNGMjoUkuiomujLArZv2rmUFpCJtr0gx5arYvXSU+JjiqYfmo7pVGSe49y5lKRjOYyLWaMp96fi91W1vaQ==",
+  "dgSpecHash": "/eNJ9ecB9bg0qFakfq321bJziKxMszk7HKGF/IVZCifMZJlgj4OdWxf8BBozv1VNtQ2UjXjQ8mRQgnmiZRUsyA==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Bak.ThirdPlatforms\\src\\Bak.ThirdPlatforms.EntityFrameworkCore.DbMigrations\\Bak.ThirdPlatforms.EntityFrameworkCore.DbMigrations.csproj",
   "expectedPackageFiles": [
